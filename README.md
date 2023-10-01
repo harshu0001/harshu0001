@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/harshu0001" target="_blank">
+  <a href="[www.linkedin.com/in/harshu0001](https://www.linkedin.com/in/harsh-pratap-singh-62b831257/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/i_harshu_04/" target="_blank">
@@ -37,6 +37,7 @@
 ###
 
 <p align="left">- 🌱 I'm currently learning React.js<br><br>- 👯 I'm looking to collaborate on Open Source<br><br>- 💬 Ask me anything about HTML5, CSS3, JavaScript <br><br>- 📫Reach me out at : prataph229@gmail.com</p>
+<img align="right" height="230" src="https://www.lambdatest.com/resources/images/news24.gif"  />
 
 ###
 
@@ -44,7 +45,7 @@
 
 ###
 
-<img align="right" height="230" src="https://www.lambdatest.com/resources/images/news24.gif"  />
+
 
 ###
 
