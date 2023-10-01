@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align = "right" alt="Coding!Coding!Coding!" width="400px" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshu0001&label=Profile%20views&color=0e75b6&style=flat" alt="harshu0001" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=harshu0001&label=Profile%20views&color=0e75b6&style=flat](https://github.com/harshu0001/harshu0001/blob/main/gif.gif)" alt="harshu0001" /> </p>
 
 - 🌱 I’m currently learning **React.js, Node,js**
 
