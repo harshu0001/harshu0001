@@ -26,7 +26,7 @@
   <a href="[www.linkedin.com/in/harshu0001](https://www.linkedin.com/in/harsh-pratap-singh-62b831257/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/i_harshu_04/" target="_blank">
+  <a href="https://www.instagram.com/harsh_pratap_7818/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://t.me/Harshu_515" target="_blank">
